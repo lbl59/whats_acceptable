@@ -2,7 +2,7 @@
 This repository contains copy of WaterPaths and the latest makefile. The Borg MOEA files are not available within this folder. Please request permission to the algorithm <a href="http://borgmoea.org/#contact" target="_blank">here</a>.
 
 ## File contents
-<p>The .sh files will enable you to generate the ROF tables as well as to run the simulation-optimization of the North Carolina Research Triangle via WaterPaths and Borg. </p>
+<p>The WaterPaths folder contains all the files that will enable you to generate the ROF tables as well as to run the simulation-optimization of the North Carolina Research Triangle via WaterPaths and Borg. </p>
 <p>The .py files (posted soon) will be used to analyze the outcomes of the simulation-optimization and conduct robustness analysis.
 
 ## References
